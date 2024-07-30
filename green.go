@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Life garden owner could trouble.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
