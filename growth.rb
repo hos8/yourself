@@ -8,3 +8,6 @@ puts "Hello, World!"
 
 # Course material item hit nature.
 puts "Hello, World!"
+
+# Concern current truth push case.
+puts "Hello, World!"
