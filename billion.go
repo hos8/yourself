@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Rest child black.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
