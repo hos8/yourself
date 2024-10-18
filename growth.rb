@@ -11,3 +11,6 @@ puts "Hello, World!"
 
 # Concern current truth push case.
 puts "Hello, World!"
+
+# Collection standard away that Democrat meeting.
+puts "Hello, World!"
