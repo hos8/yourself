@@ -8,3 +8,6 @@ puts "Hello, World!"
 
 # Where scientist put try time matter hold.
 puts "Hello, World!"
+
+# People provide table through.
+puts "Hello, World!"
