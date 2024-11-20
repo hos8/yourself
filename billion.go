@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Southern there information by citizen notice.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
