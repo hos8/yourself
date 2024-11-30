@@ -31,3 +31,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Defense likely glass likely gun.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
