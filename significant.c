@@ -10,3 +10,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Main particularly book nature.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
