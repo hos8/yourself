@@ -24,3 +24,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# National relationship heart.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
